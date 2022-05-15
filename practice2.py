@@ -36,3 +36,4 @@ print(name.find('Moon')) #== -1
 
 #count() 는 사용된 총 갯수를 세어준다.
 print(name.count("e")) #== 3개
+
