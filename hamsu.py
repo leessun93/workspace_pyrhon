@@ -3,6 +3,9 @@
 #          return : 1;
 #          } 이렇게 사용하였다.
 
+from typing_extensions import get_overloads
+
+
 def open_account():
     print("새로운 계정이 생성되었습니다.")
 

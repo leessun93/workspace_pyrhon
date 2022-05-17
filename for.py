@@ -58,3 +58,5 @@ print(student)
 student = ["ironman", "thor", "big_thor", "sall_thor"]
 student = [i.upper() for i in student]
 print(student)
+
+
